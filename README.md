@@ -25,3 +25,10 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Installation of google component
+Run 'npm install @google-pay/button-angular' to install the google pay component
+
+Import GooglePayButtonModule in the app.module.ts file.
+
+The code for the googlepay button mainly is in the cart.component.html and cart.comonent.ts files
